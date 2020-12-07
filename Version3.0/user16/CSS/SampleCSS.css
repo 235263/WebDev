@@ -1,6 +1,7 @@
 body {
 	font-family: "Marker Felt", "Comic Sans MS", fantasy;
 	color: #003366;
+ background-color: #ff0000;
 }
 
 h1 {
@@ -9,7 +10,8 @@ h1 {
 }
 
 h2{
-        font-size: 1.1em;
+	font-size: 1.1em;
+	text-align:center;
 }
 
 table {
@@ -29,5 +31,5 @@ tr {
 th {
 	text-align: center;
 	color: #ffffff;
-	background-color: #003366;
+
 }
